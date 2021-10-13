@@ -1,0 +1,5 @@
+* JSX
+- Javascript XML
+- It make easy to write html in react.
+- in JSX, class attibute replace with className & onClick replace with onClick
+- 
